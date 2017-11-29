@@ -37,6 +37,8 @@ Go through the google form included. Fill up and submit your chosen answers. You
 
 ```
 Sample code provided is the configuration application a microservice. Have a thorough look at the application structure. Write down your observations on the ANSWER.MD file.
+
+Provide us with details. 
 ```
 
 3. Creativity:
