@@ -3,5 +3,9 @@
 */
 'use strict';
 module.exports = function(array) {
-// complete the function
+	// complete the function
+	array.sort(function(a, b) {
+	  return a - b;
+	});
+	return array;
 };
